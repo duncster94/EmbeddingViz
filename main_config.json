@@ -1,0 +1,31 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Costanzo Gavin Krogan",
+      "tensorShape": [
+        5439,
+        256
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/duncster94/EmbeddingViz/master/gi_raw_gav_krog_features.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/duncster94/EmbeddingViz/master/gi_raw_gav_krog_metadata.tsv"
+    },
+    {
+      "tensorName": "Costanzo",
+      "tensorShape": [
+        4833,
+        128
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/duncster94/EmbeddingViz/master/gi_raw_features.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/duncster94/EmbeddingViz/master/gi_raw_metadata.tsv"
+    },
+    {
+      "tensorName": "Gavin Krogan",
+      "tensorShape": [
+        2753,
+        128
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/duncster94/EmbeddingViz/master/gav_krog_features.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/duncster94/EmbeddingViz/master/gav_krog_metadata.tsv"
+    }
+  ]
+}
